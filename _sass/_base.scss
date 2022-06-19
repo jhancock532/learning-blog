@@ -1,0 +1,14 @@
+html {
+  font-size: 10px;
+  // All font sizes measured in rems relative to 10px
+  // 2.8rem = 28px, 1.2rem = 12px
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color: $color--ink;
+}

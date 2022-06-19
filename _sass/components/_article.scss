@@ -1,0 +1,28 @@
+.article {
+  &__title {
+    font-size: 2.8rem;
+    line-height: 1.2;
+    margin-bottom: $grid;
+  }
+
+  &__title-link {
+    text-decoration-line: underline;
+    text-decoration-thickness: 5px;
+    text-decoration-skip-ink: none;
+    text-decoration-color: yellow;
+
+    &:visited {
+      color: blue;
+    }
+  }
+
+  &__content {
+    font-size: 2rem;
+    margin-bottom: $grid;
+  }
+
+  &__question {
+    font-size: 2rem;
+    font-family: "Courier New", Courier, monospace;
+  }
+}

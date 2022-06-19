@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+After passing probation, I started taking daily learning logs covering the variety of work I performed as a Junior Developer at Torchbox. I hope that here I can share everyday learnings and give good insight on the typical work of a FE developer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+TODO
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+- Set up tag filter pages
+- Set up code snippet highlights
+- Add nice styles - (design a generative background?), finish mixin setup
+- Copy up the best notes from the past month
+- Gradually buid this repo with daily notes :)
