@@ -1,0 +1,13 @@
+<article>
+  <h2 class="blog__title">
+    <a class="blog__title-link" href="{{ include.post.url | relative_url }}">
+      {{ include.post.title | escape }}
+    </a>
+  </h2>
+  <div class="blog__content">
+    {{ include.post.content }}
+  </div>
+  <div class="blog__question">
+    {{ include.post.question }}
+  </div>
+</article>
