@@ -1,0 +1,11 @@
+---
+layout: post
+title: "25th May 2022"
+date: 2022-05-24 14:09:22 +0100
+question: "Where should onboarding docs for a monorepo live? In another child repo?"
+categories: weekday
+---
+
+Gitlab doesn't show all related wiki pages in the wiki sidebar: make sure to click the button to view more, or else you'll miss something!
+
+Make sure to perform code review by reading the code locally in the VSCode editor - this will raise any linting issues if the linter hasn't been set up on CI correctly.
