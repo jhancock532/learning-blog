@@ -1,0 +1,21 @@
+---
+layout: post
+title: "20th June 2022"
+date: 2022-05-24 14:09:22 +0100
+question: ""
+categories: weekday
+---
+
+Don't leave empty wrapper divs in the DOM when using React; wrap these in conditionals.
+
+Code review for a Docker setup.
+
+- For docker create a user as well as an app directory. This user can then update the working directory with the --chown flag in the COPY command.
+- A neat NPM reset command for docker: `RUN npm ci --no-audit --progress=false && npm cache clean --force`
+- When choosing a node image, remember that node:16-alpine is 112MB, node:16 is 907MB 😦
+
+Minor FE tickets, a minor BE change.
+
+Next.js 404 pages are always statically rendered... unless you redirect to another page as part of your 404 page response? But this loses the URL of the page you weren't able to access, unless you do something clever with react-router? Not being able to pass server props into a 404 is a bit annoying, especially when you can fetch server data in getInitialProps and have that data appear in a wrapper surrounding your 404 page 🤔
+
+Made a card image hover zoom effect.
