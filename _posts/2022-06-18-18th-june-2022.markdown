@@ -1,0 +1,13 @@
+---
+layout: post
+title: "18th June 2022"
+date: 2022-06-18 14:09:22 +0100
+question: "What's a good question to consider over a train journey?"
+categories: weekday
+---
+
+More webpack 5 setup for a project hosted on Gitlab Pages.
+
+When travelling to an office, make sure to visit on a busy day - or else no-one will be there!
+
+Drink plenty of water on a heatwave.
