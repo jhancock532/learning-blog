@@ -1,0 +1,25 @@
+---
+layout: post
+title: "23rd June 2022"
+date: 2022-05-23 14:09:22 +0100
+question: "How could we improve our CI processes?"
+categories: typescript nextjs docker
+---
+
+Minor FE tickets, mostly code review fixes and merges. Some bug fixing.
+Wrote a spike ticket outlining research aims.
+
+Cool prop type definitions!
+https://github.com/trussworks/react-uswds/blob/main/src/components/breadcrumb/BreadcrumbBar/BreadcrumbBar.tsx
+
+```tsx
+type BreadcrumbBarProps = {
+  children: ReactElement<BreadcrumbProps> | ReactElement<BreadcrumbProps>[];
+  variant?: "default" | "wrap";
+  className?: string;
+  navProps?: JSX.IntrinsicElements["nav"]; // I didn't know you could do this
+  listProps?: JSX.IntrinsicElements["ol"]; // Perhaps I've forgotten the value of simply reading other people's code.
+};
+```
+
+Thinking about the importance of forward planning, and questioning assumptions. It's good to be looking ahead with a clear path towards how the deployment will work. Quite easy to have faith as a developer that other people handle the DevOps, but with fullstack development you're already handling DevOps yourself to an extent, so contextual awareness is super important! It also shows that your developers need Docker awareness, good that I've had some time to practice with this.

@@ -1,0 +1,19 @@
+---
+layout: post
+title: "21st June 2022"
+date: 2022-05-24 14:09:22 +0100
+question: "How do you resolve nested graphql queries?"
+categories: typescript nextjs graphql
+---
+
+More FE tickets with next.js, added a BE MR as well to update a factory. Did some pair programming to add a custom resolver for our Apollo mock server.
+
+Next.js doesn't lint all folders automatically: you have to update the config to support this.
+
+```js
+    eslint: {
+        dirs: ['components', 'pages' ...],
+    },
+```
+
+Performed a sprint demo to clients & key stakeholders today; make sure screen sharing permissions are active for all local conference software that could be used on the call (we had an unexpected switch to Google Meets as Zoom was acting up). Fortunately tab sharing still worked, setting up tabs in advance helped a lot here. Follow the flow of the meeting and the current interests of the call when you've got multiple different items to present, the tech lead gracefully picked up slack time to talk about other features.

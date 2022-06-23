@@ -1,0 +1,18 @@
+---
+layout: post
+title: "22nd June 2022"
+date: 2022-05-24 14:09:22 +0100
+question: "What are the core web vitals that Google prefers / judges using?"
+link: https://devtoolstips.org/tips/en/automatically-log-name-and-value/
+categories: typescript nextjs graphql
+---
+
+Extensive code review for a new component + API integration.
+
+Triaging tickets for the next sprint, finishing low priority FE tickets.
+
+Read a great article on font pairings: really cool way of matching up styles! [Check out the font matrix](https://pimpmytype.com/font-matrix/).
+
+I've been strongly impressed by how good a basic Tailwind site looks. Maybe it just hasn't reached a true 'Bootstrap' level of ubiquity so its default font & theming becomes a dissonant cord of recognition - or perhaps Tailwind by default has better design component libraries.
+
+[A surprisingly contentious, if largely irrelevant StackOverflow question on meta charset.](https://stackoverflow.com/questions/4696499/meta-charset-utf-8-vs-meta-http-equiv-content-type)
