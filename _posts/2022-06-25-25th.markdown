@@ -1,0 +1,29 @@
+---
+layout: post
+title: "25th June 2022"
+date: 2024-06-25 14:09:22 +0100
+question: ""
+categories: typescript nextjs
+---
+
+Feedback meeting on internal project: always interesting to hear different perspectives, a good education in stakeholders having different priorities. Important to share overarching plans of use for the individual stakeholder with relation to other stakeholder groups as well, important context.
+
+Styling links depending on destination: https://css-tricks.com/snippets/css/style-links-depending-on-destination/
+
+This isn't as complex as Regex, but it's cool that there are different specifiers to match within the `href` string.
+
+The snippets library is fantastic: I wondered where this iconic SCSS breakpoint mixin came from...
+
+https://css-tricks.com/snippets/sass/mixin-manage-breakpoints/
+
+Live expressions are a cool debugging technique for global variables / expressions. https://www.cambridgecancer.org.uk/our-research/research-at-ccrh/
+
+You can steal emoji image assets from Slack with their standardised emoji URL setup.
+
+![https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-xlarge/1f984@2x.png](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-xlarge/1f984@2x.png)
+
+`https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-xlarge/1f984@2x.png`
+
+Discovered the write-good linter and VSCode extension today, a neat reminder for improving your prose.
+
+https://marketplace.visualstudio.com/items?itemName=travisthetechie.write-good-linter

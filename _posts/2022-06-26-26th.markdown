@@ -1,0 +1,21 @@
+---
+layout: post
+title: "26th June 2022"
+date: 2022-05-26 14:09:22 +0100
+question: ""
+categories: typescript nextjs docker
+---
+
+Adding USWDS components, updating the Apollo mocks and GraphQL queries. A fun new addition added to the resolvers to mimic breadcrumb heirarchy.
+
+Added unit tests and e2e tests with this mock data.
+
+Implemented array.reducer functions for my code; good practice for avoiding for loops, although I'm not sure if it's always more legible and understandable for other developers. Sometimes simple works best.
+
+Refreshed my knowledge on array prototypes. `every` (if all true), `some` (if some true), `filter` (if meets condition), `find` (first for condition), `includes` (a misspelling of contains)`map` (one to the other), `flatMap` (map with [array, squished])`, `reduce` (accumulator fun!).
+
+Rest ... grabs the rest of the params and encloses them into an array - can also be used while destructuring.
+
+Spread ... converts iterables into individual objects.
+
+https://www.freecodecamp.org/news/javascript-rest-vs-spread-operators/#:~:text=The%20main%20difference%20between%20rest,expands%20iterables%20into%20individual%20elements.

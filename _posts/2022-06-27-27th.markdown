@@ -1,0 +1,22 @@
+---
+layout: post
+title: "27th June 2022"
+date: 2022-05-27 14:09:22 +0100
+question: ""
+categories: typescript nextjs graphql
+---
+
+Whenever you're adding code to an existing component, consider whether it needs refactoring or tweaking: if you were to code review this work now, what would you change? This is important to remember as older code may have been written informally as a placeholder and not received as strict of a review as expected.
+
+TIL what a docstring is - I've always added comments before, even though these are often removed at runtime.
+
+From Wikipedia: [a string literal specified in source code that is used, like a comment, to document a specific segment of code](https://en.wikipedia.org/wiki/Docstring)
+
+VSCode collapse all to certain level: CMD + K, CMD + 1, 2, 3 ... Number depending on level of nesting you'd like to collapse to.
+
+Implementing React Context - a great tutorial! https://felixgerschau.com/react-typescript-context/
+
+You've heard of Browser support tables for CSS features, but have you heard of screenreader support tables for punctuation?
+https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/
+
+pollpilot.io
