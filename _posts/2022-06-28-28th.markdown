@@ -1,0 +1,23 @@
+---
+layout: post
+title: "28th June 2022"
+date: 2022-05-28 14:09:22 +0100
+question: ""
+categories: typescript nextjs presentation leadership
+---
+
+Useful resource: https://github.com/n3r4zzurr0/svg-spinners
+
+Remember to rebase to master before submitting a MR for review - we've now set this up as mandatory before merging, which is a nice feature to ensure the project is always in a "ready to go live" state if we want to make releases.
+
+Gave presentation of an MVP to the design team, good feedback. Agreed goals for end of quarter, we're happy with actions set. Leading on an internal project there's a desire to get lots done but it's important to be realistic. Good practice for chairing meetings, setting agendas, following up with actions.
+
+Zoom in on your editor when screen-sharing code.
+
+Tailwind Play - super responsive way for testing Tailwind demos. Tailwind is also super easy to add to a project without NPM, I should consider that for this site...
+
+Code review for Sentry installation.
+
+Sometimes the most obvious solution for clipping content is overlooked: why use clip-path, when you can use the container div and `overflow: hidden;`? Used to a cool card hover effect on https://www.baianat.com/, they also have an interesting card content loading animation on page load - a wave moving right to reveal what's hidden.
+
+Chrome has a cool animation playback gif in the animations panel, I wonder if there is a way to save this for reference?
